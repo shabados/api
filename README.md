@@ -1,3 +1,10 @@
+# Development has moved to [shabados/shabados](https://github.com/shabados/shabados)
+
+This repo has been archived in favor of the above monorepo.
+
+<details>
+<summary>Archived README</summary>
+
 # API
 
 The Shabad OS API aims to provide the most performant and reliable API for accessing the Shabad OS database via api.shabados.com.
@@ -19,3 +26,5 @@ The Shabad OS database is unwrapped into the desired API responses by a build pr
 ## Contributing
 
 If you're interested in contributing to the source code of Database, then please see [Contributing Guidelines](CONTRIBUTING.md).
+
+</details>
